@@ -1,0 +1,2 @@
+# SQL_
+Learning SQL query language during the Czechitas Digital Academy, included basic SQL questions as SELECT, FROM, DISTINCT, COUNT, WHERE, ORDER BY, LIMIT, BETWEEN, LIKE, COUNT, AVG, MAX, MIN, SUM, GROUP BY, HAVING, AS. I also met LEFT JOIN, RIGHT JOIN, INNER JOIN. During self-study, I trained on the SQL BOLT website and mainly watched YouTube videos Hack Your future from David Šetek. I have used SQL OnLine IDE and PostgreSQL 16.
